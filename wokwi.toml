@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/mini_rtos.hex'
+elf = 'build/mini_rtos.elf'
