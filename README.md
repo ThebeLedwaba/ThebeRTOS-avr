@@ -147,4 +147,4 @@ This project came out of studying AVR timer peripherals and UART before moving o
 ## Author
  
 **Thebe Ledwaba**  
-GitHub: [ThebeLedwaba](https://github.com/ThebeLedwaba) · Portfolio: [thebeledwabawebsite.netlify.app](https://thebeledwabawebsite.netlify.app)
+GitHub: [ThebeLedwaba](https://github.com/ThebeLedwaba) 
